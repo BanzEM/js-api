@@ -1,0 +1,144 @@
+{
+  "transactions": [
+    {
+      "id": 1187,
+      "transaction": "Netflix",
+      "amount": 250.50,
+      "date": "2024-01-15",
+      "status": "Success"
+    },
+    {
+      "id": 2987,
+      "transaction": "Outsurance",
+      "amount": 1250.00,
+      "date": "2024-01-22",
+      "status": "Success"
+    },
+    {
+      "id": 3765,
+      "transaction": "Vodacom",
+      "amount": 75.25,
+      "date": "2024-02-03",
+      "status": "Success"
+    },
+    {
+      "id": 4897,
+      "transaction": "Dstv",
+      "amount": 890.75,
+      "date": "2024-02-14",
+      "status": "Pending"
+    },
+    {
+      "id": 5876,
+      "transaction": "Spotify premium",
+      "amount": 120.00,
+      "date": "2024-02-28",
+      "status": "Success"
+    },
+    {
+      "id": 6875,
+      "transaction": "Zara",
+      "amount": 2340.50,
+      "date": "2024-03-05",
+      "status": "Pending"
+    },
+    {
+      "id": 7098,
+      "transaction": "PnP",
+      "amount": 45.99,
+      "date": "2024-03-12",
+      "status": "Pending"
+    },
+    {
+      "id": 8887,
+      "transaction": "MrPrice",
+      "amount": 567.25,
+      "date": "2024-03-18",
+      "status": "Success"
+    },
+    {
+      "id": 9876,
+      "transaction": "McDonalds",
+      "amount": 89.50,
+      "date": "2024-04-02",
+      "status": "Success"
+    },
+    {
+      "id": 1860,
+      "transaction": "Checkers",
+      "amount": 1125.80,
+      "date": "2024-04-11",
+      "status": "pending"
+    },
+    {
+      "id": 1121,
+      "transaction": "Relish",
+      "amount": 210.30,
+      "date": "2024-04-25",
+      "status": "Success"
+    },
+    {
+      "id": 1092,
+      "transaction": "Woolworths",
+      "amount": 3450.00,
+      "date": "2024-05-03",
+      "status": "Pending"
+    },
+    {
+      "id": 1338,
+      "transaction": "Checkers",
+      "amount": 67.80,
+      "date": "2024-05-17",
+      "status": "Success"
+    },
+    {
+      "id": 14,
+      "transaction": "Cotton On",
+      "amount": 780.25,
+      "date": "2024-05-29",
+      "status": "Success"
+    },
+    {
+      "id": 4815,
+      "transaction": "YouTube premium",
+      "amount": 155.40,
+      "date": "2024-06-08",
+      "status": "Success"
+    },
+    {
+      "id": 1676,
+      "transaction": "Sasol Garage",
+      "amount": 2950.60,
+      "date": "2024-06-14",
+      "status": "Pending"
+    },
+    {
+      "id": 1756,
+      "transaction": "Starbucks",
+      "amount": 95.25,
+      "date": "2024-06-27",
+      "status": "Success"
+    },
+    {
+      "id": 1809,
+      "transaction": "City Power",
+      "amount": 1675.90,
+      "date": "2024-07-04",
+      "status": "Success"
+    },
+    {
+      "id": 1976,
+      "transaction": "PnP",
+      "amount": 45.75,
+      "date": "2024-07-19",
+      "status": "Success"
+    },
+    {
+      "id": 2000,
+      "transaction": "Eagle Rock",
+      "amount": 4320.15,
+      "date": "2024-07-31",
+      "status": "Pending"
+    }
+  ]
+}
